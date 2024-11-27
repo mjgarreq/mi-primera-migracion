@@ -1,11 +1,11 @@
-@import 'core/variables';
-@import 'core/reset';
-@import 'components/code';
-@import 'components/links';
-@import 'layout/page';
-@import 'layout/header';
-@import 'layout/footer';
-@import 'pages/index';
+// @import 'core/variables';
+// @import 'core/reset';
+// @import 'components/code';
+// @import 'components/links';
+// @import 'layout/page';
+// @import 'layout/header';
+// @import 'layout/footer';
+// @import 'pages/index';
 
 html {
     background-color: #f3f4f5;
@@ -21,4 +21,8 @@ p, ol, ul {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 18px;
     color: #757575;
+}
+
+.li-3 {
+    list-style: none;
 }
